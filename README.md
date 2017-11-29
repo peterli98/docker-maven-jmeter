@@ -8,3 +8,4 @@ Includes:
 * JMeter 3.3
 
 
+Docker hub link https://hub.docker.com/r/peterli98/maven-jmeter/
