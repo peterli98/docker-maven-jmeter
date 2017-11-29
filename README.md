@@ -7,4 +7,4 @@ Includes:
 * Maven 3.3.9
 * JMeter 3.3
 
-Available on [Docker Hub](https://hub.docker.com/r/amitaarya17/docker-maven-chrome/).
+
